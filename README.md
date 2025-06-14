@@ -31,5 +31,19 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+# 👋 Hi, I'm Shahariar Sohan
 
+### 💻 MERN Stack Developer | 🛠️ JavaScript Enthusiast | 🚀 Lifelong Learner
+
+---
+
+## 🚀 About Me
+
+I’m a passionate **MERN Stack Developer** with a knack for building clean, scalable, and high-performance web applications. I love transforming complex problems into elegant solutions using modern web technologies.
+
+- 🔭 Currently working on full-stack web applications using **MongoDB, Express.js, React, and Node.js**
+- 🌱 Constantly learning and growing in the JavaScript ecosystem
+- 💬 Ask me about anything related to **Web Development**, **REST APIs**, **Authentication**, or **Deployment**
+- 📚 Enjoy reading about **Tech**, **Productivity**, and **Islamic Motivation**
+- 📫 Reach me at: [sohan.dev.bd@gmail.com](mailto:sohan.dev.bd@gmail.com)
 ###
