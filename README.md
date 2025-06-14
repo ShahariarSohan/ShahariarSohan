@@ -12,7 +12,7 @@ I’m a passionate **MERN Stack Developer** with a knack for building clean, sca
 - 🌱 Constantly learning and growing in the JavaScript ecosystem
 - 💬 Ask me about anything related to **Web Development**, **REST APIs**, **Authentication**, or **Deployment**
 - 📚 Enjoy reading about **Tech**, **Productivity**, and **Islamic Motivation**
-- 📫 Reach me at: [sohan.dev.bd@gmail.com](mailto:sohan.dev.bd@gmail.com)
+- 📫 Reach me at: [sohanshahariar4@gmail.com](mailto:sohanshahariar4@gmail.com)
 ###
 ###
 
