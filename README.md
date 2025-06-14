@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! Here is Sohan and I'm a Bangladeshi Web developer.</h1>
+<h1 align="left">Hi 👋! Here is Shahariar Sohan and I'm a Bangladeshi Web developer.</h1>
 
 ###
 
