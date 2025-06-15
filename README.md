@@ -1,6 +1,7 @@
-![Banner](https://i.imgur.com/KcRGBsM.png)
 
 <h1 align="left">Hi ! Here is Shahariar Sohan.</h1>
+
+![Banner](https://i.imgur.com/KcRGBsM.png)
 
 ### 💻 MERN Stack Developer | 🛠️ JavaScript Enthusiast | 🚀 Lifelong Learner
 
