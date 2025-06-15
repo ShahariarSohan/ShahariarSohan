@@ -1,4 +1,4 @@
-![Banner]([https://github.com/your-username/your-username/blob/main/github.png](https://imgur.com/a/1Z2Uo7J))
+![Banner]((https://imgur.com/a/1Z2Uo7J))
 
 <h1 align="left">Hi ! Here is Shahariar Sohan.</h1>
 
