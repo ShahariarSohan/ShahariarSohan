@@ -1,4 +1,4 @@
-![Banner]((https://imgur.com/a/1Z2Uo7J))
+![Banner](https://i.imgur.com/KcRGBsM.png)
 
 <h1 align="left">Hi ! Here is Shahariar Sohan.</h1>
 
