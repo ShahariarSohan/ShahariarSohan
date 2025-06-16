@@ -30,6 +30,7 @@ I’m a passionate **MERN Stack Developer** with a knack for building clean, sca
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="6" />
   </div>
+  <div height="30"></div>
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="6" />
