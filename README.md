@@ -36,7 +36,7 @@ I’m a passionate **MERN Stack Developer** with a knack for building clean, sca
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://i.ibb.co/1GKhyhHL/tailwind.png" height="20" alt="tailwindcss logo"  />
+  <img src="https://i.ibb.co/1GKhyhHL/tailwind.png" height="30" alt="tailwindcss logo"  />
   <img width="12" />
 </div>
 
