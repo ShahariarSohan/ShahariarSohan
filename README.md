@@ -1,8 +1,6 @@
 
 <h1 align="left">Hi ! Here is Shahariar Sohan.</h1>
 
-![Banner](https://i.ibb.co/1GSSMjdY/github-profile.png)
-
 ### 💻 MERN Stack Developer | 🛠️ JavaScript Enthusiast | 🚀 Lifelong Learner
 
 ---
