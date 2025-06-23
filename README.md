@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi ! Here is Shahariar Sohan.</h1>
+<h1 align="left">Hi ! I am Shahariar Sohan.</h1>
 
 ### 💻 MERN Stack Developer | 🛠️ JavaScript Enthusiast | 🚀 Lifelong Learner
 
