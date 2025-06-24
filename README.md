@@ -73,9 +73,4 @@
 
 ---
 
-## ⚡ Fun Fact
-
-> "I write code like poetry and refactor like a sculptor."
-
----
 
