@@ -11,7 +11,6 @@
 
 ## 💡 About Me
 
-- 🎓 CSE Student, started my journey in 2019
 - 🌱 Currently exploring advanced MERN stack, PostgreSQL, and Docker
 - 🧠 I enjoy solving real-world problems using full-stack applications
 - 🔍 Always focused on writing clean, maintainable, and scalable code
