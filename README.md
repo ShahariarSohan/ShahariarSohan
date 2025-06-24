@@ -22,6 +22,7 @@
 ### Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,postgres,mongoose,tailwind,html,css" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logoColor=white" alt="Mongoose" />
 </p>
 
 ---
