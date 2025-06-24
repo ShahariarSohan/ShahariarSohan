@@ -1,54 +1,49 @@
+<h1 align="center">Hi, I'm Md Shahariar Sohan 👋</h1>
 
-<h1 align="left">👋 Hi, I'm Shahariar Sohan</h1>
-
-### 💻 MERN Stack Developer | 🛠️ JavaScript Enthusiast | 🚀 Lifelong Learner
+<p align="center">
+  MERN Stack Developer | Passionate about clean code & full-stack solutions
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I’m a passionate **MERN Stack Developer** with a knack for building clean, scalable, and high-performance web applications. I love transforming complex problems into elegant solutions using modern web technologies.
+- 💻 I’m currently deep diving into the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🎓 Computer Science Student | Started university in 2019
+- 🌱 Actively learning advanced backend, PostgreSQL, Docker, and system design
+- 🛠️ Love building full-stack apps that solve real-world problems
 
-- 🔭 Currently working on full-stack web applications using **MongoDB, Express.js, React, and Node.js**
-- 🌱 Constantly learning and growing in the JavaScript ecosystem
-- 💬 Ask me about anything related to **Web Development**, **REST APIs**, **Authentication**, or **Deployment**
-- 📚 Enjoy reading about **Tech**, **Productivity**, and **Islamic Motivation**
-- 📫 Reach me at: [sohanshahariar4@gmail.com](mailto:sohanshahariar4@gmail.com)
-###
-###
-## 🧰 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/1GKhyhHL/tailwind.png" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-## 🌐 Connect With Me
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="sohanshahariar4@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email"  />
-    </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  
-</div>
+---
 
-###
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahariarSohan&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahariarSohan&theme=default" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
