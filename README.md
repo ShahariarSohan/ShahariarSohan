@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Md Shahariar Sohan</h1>
-<h3 align="center">MERN Stack Developer | TypeScript Lover | Clean Code Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Shahariar Sohan</h1>
+<h3 align="center">MERN Stack Developer | Javascript Lover | Clean Code Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
