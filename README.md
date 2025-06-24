@@ -21,7 +21,7 @@
 
 ### Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,postgres,mongoose,tailwind,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,postgres,mongoose,tailwind,html,css" />
 </p>
 
 ---
