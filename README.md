@@ -70,7 +70,7 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 📧 [your.email@example.com](mailto:sohanshahariar4@gmail.com)
 - 🌐 [Portfolio](https://your-portfolio.com) _(if available)_
 
 ---
