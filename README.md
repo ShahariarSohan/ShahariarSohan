@@ -71,7 +71,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahariarsohan)
 - 📧 [sohanshahariar4@gmail.com](mailto:sohanshahariar4@gmail.com)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohanshahariar4@gmail.com)
 - 🌐 [Portfolio](https://your-portfolio.com)
 
 ---
