@@ -69,9 +69,10 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahariarsohan)
 - 📧 [sohanshahariar4@gmail.com](mailto:sohanshahariar4@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio.com) _(if available)_
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohanshahariar4@gmail.com)
+- 🌐 [Portfolio](https://your-portfolio.com)
 
 ---
 
