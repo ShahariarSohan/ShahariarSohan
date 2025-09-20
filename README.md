@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/Prisma-FF6C37?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Prisma-FFFFFF?style=flat&logo=prisma&logoColor=blue" alt="Prisma" />
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
