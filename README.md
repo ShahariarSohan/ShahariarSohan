@@ -16,13 +16,6 @@ I’m currently focused on developing backend projects, learning to design effic
   <a href="https://github.com/ShahariarSohan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-## 💡 About Me
-
-- 🌱 Currently exploring advanced MERN stack, PostgreSQL, and Docker
-- 🧠 I enjoy solving real-world problems using full-stack applications
-- 🔍 Always focused on writing clean, maintainable, and scalable code
 
 ---
 
