@@ -1,5 +1,14 @@
 <h1 align="center">Hey 👋, I'm Shahariar Sohan</h1>
-<h3 align="center">MERN Stack Developer | Javascript Lover | Clean Code Enthusiast</h3>
+<h3 align="center">Backend-Focused MERN Stack Developer | Passionate About Databases, Servers & Scalable Systems | Clean Code Advocate</h3>
+
+---
+
+### 👨‍💻 About Me
+I’m Shahariar Sohan, a backend-focused MERN stack developer who loves building robust, scalable, and maintainable systems.  
+I’m deeply fascinated by how databases, servers, and clean architecture come together to power real-world applications.  
+
+I’m currently focused on developing backend projects, learning to design efficient APIs, model data for scalability, and write clean, modular code that teams can maintain long-term.  
+ 
 
 <p align="center">
   <a href="mailto:sohanshahariar4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
