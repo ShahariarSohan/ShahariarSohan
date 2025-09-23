@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shahariar Sohan</h1>
-<h3 align="center">Backend-Focused MERN Stack Developer | Passionate About Databases, Servers & Scalable Systems | Clean Code Advocate</h3>
+<h3 align="center"> MERN Stack Developer | Passionate About Databases, Servers & Scalable Systems | Clean Code Advocate</h3>
 
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m Shahariar Sohan, a backend-focused MERN stack developer passionate about building scalable, maintainable systems.  
+I’m Shahariar Sohan, a MERN stack developer passionate about building scalable, maintainable systems.  
 I enjoy working with databases, servers, and clean architecture, and I’m focused on designing efficient APIs, optimizing queries, and writing modular, reliable backend code.
 
 
