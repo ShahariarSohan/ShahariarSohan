@@ -12,11 +12,8 @@
 ---
 
 ### 👨‍💻 About Me
-I’m Shahariar Sohan, a backend-focused MERN stack developer who loves building robust, scalable, and maintainable systems.  
-I’m deeply fascinated by how databases, servers, and clean architecture come together to power real-world applications.  
-
-I’m currently focused on developing backend projects, learning to design efficient APIs, model data for scalability, and write clean, modular code that teams can maintain long-term.  
-While I work across the MERN stack, my true passion is backend engineering—optimizing queries, architecting systems, and ensuring reliability at scale.  
+I’m Shahariar Sohan, a backend-focused MERN stack developer passionate about building scalable, maintainable systems.  
+I enjoy working with databases, servers, and clean architecture, and I’m focused on designing efficient APIs, optimizing queries, and writing modular, reliable backend code.
 
 
 ---
