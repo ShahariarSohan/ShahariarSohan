@@ -56,8 +56,7 @@ I enjoy working with databases, servers, and clean architecture, and I’m focus
 ## 📊 GitHub Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahariarSohan&show_icons=true&theme=radical" height="180px" style="margin-right:10px;" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahariarSohan&theme=radical" height="180px" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahariarSohan&show_icons=true&theme=radical" height="180px" style="margin-right:10px;" />  
 </p> 
  
 <p align="center"> 
