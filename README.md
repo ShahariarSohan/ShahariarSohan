@@ -69,7 +69,7 @@ I enjoy working with databases, servers, and clean architecture, and I’m focus
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahariarsohan)
 - 📧 [sohanshahariar4@gmail.com](mailto:sohanshahariar4@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🌐 [Portfolio Link](https://shahariarsohan.vercel.app)
 
 ---
 
