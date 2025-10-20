@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shahariar Sohan</h1>
-<h3 align="center">MERN Stack Developer | Passionate About Databases, Servers & Scalable Systems | Clean Code Advocate</h3>
+<h3 align="center">Full Stack Developer | MERN | PostgreSQL | Prisma | Nextjs | Passionate About Databases, Servers & Scalable Systems | Clean Code Advocate</h3>
 
 <p align="center">
   <a href="mailto:sohanshahariar4@gmail.com">
