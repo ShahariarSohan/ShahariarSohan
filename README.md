@@ -1,4 +1,4 @@
-h1 align="center">Hey 👋, I'm Shahariar Sohan</h1>
+<h1 align="center">Hey 👋, I'm Shahariar Sohan</h1>
 <h3 align="center">Full Stack Developer | MERN | PostgreSQL | Prisma | Nextjs | Clean Code Advocate</h3>
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com&su=Subject&body=MessageBody" target="_blank" rel="noopener noreferrer">
