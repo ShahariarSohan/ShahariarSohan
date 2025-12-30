@@ -72,33 +72,6 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" /> 
 </p>
 
----
-
-### 🚀 What I've Built
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-#### 🎯 Featured Projects
-- **E-Commerce Platform** - Full-stack marketplace with payment integration
-  - *Tech: Next.js, PostgreSQL, Prisma, Stripe*
-  
-- **Task Management System** - Real-time collaborative tool
-  - *Tech: MERN Stack, Socket.io, Redis*
-  
-- **API Gateway Service** - Microservices architecture
-  - *Tech: Node.js, Express, Docker, PostgreSQL*
-
-</td>
-<td width="50%" valign="top">
-
-#### 💼 Professional Work
-- Built **RESTful APIs** serving 10k+ daily requests
-- Designed **database schemas** optimized for performance
-- Implemented **authentication systems** with JWT & OAuth
-- Deployed **containerized applications** using Docker
-- Optimized **SQL queries** reducing load time by 60%
 
 </td>
 </tr>
@@ -118,34 +91,13 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Overall Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahariarsohan&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarsohan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarsohan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahariarsohan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-### 📈 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahariarsohan/shahariarsohan/output/snake.svg" alt="Snake animation" />
-</p>
-
-> **Note:** To enable the snake animation, you'll need to set up GitHub Actions. Create `.github/workflows/snake.yml` in your profile repository.
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
