@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-Full Stack Developer with a backend-first focus. I build scalable, maintainable systems with an emphasis on clean architecture, efficient APIs, and optimized databases. I enjoy working close to the data layer—designing schemas, improving query performance, and writing reliable backend logic.
+Full Stack Developer specializing in building modern web applications with Next.js and React. On the backend, I work extensively with MongoDB and PostgreSQL, using Prisma and Mongoose to design scalable, maintainable data layers.
 
 🔭 Currently working on: **a full-stack web application — Hidden Dependency Risk Tracker (HDRT), a backend-focused system for tracking and analyzing hidden dependencies and system risks through robust risk analysis and optimized backend logic**.
 - 💬 Ask me about **Node.js, PostgreSQL, MongoDB, React, Next.js, TypeScript**
