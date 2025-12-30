@@ -22,8 +22,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a **backend-focused Full Stack Developer** who builds scalable, maintainable systems with clean architecture and optimized databases.  
-I enjoy working close to the data layer—designing schemas, improving query performance, and writing reliable backend logic.
+Full Stack Developer with a backend-first focus. I build scalable, maintainable systems with an emphasis on clean architecture, efficient APIs, and optimized databases. I enjoy working close to the data layer—designing schemas, improving query performance, and writing reliable backend logic.
 
 ---
 
