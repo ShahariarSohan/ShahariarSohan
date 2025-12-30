@@ -1,24 +1,8 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👋%20Hi,%20I'm%20Shahariar%20Sohan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20MERN%20%7C%20PostgreSQL&descAlignY=51&descAlign=50" width="100%" />
-  <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://shahariarsohan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahariarsohan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/8801622143630" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://m.me/mdshahariar.sohan" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-0084FF?style=flat&logo=facebookmessenger&logoColor=white" alt="Messenger" />
-  </a>
 </p>
-</p>
+
+<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com" target="_blank">
@@ -36,12 +20,26 @@
   <a href="https://m.me/mdshahariar.sohan" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-0084FF?style=flat&logo=facebookmessenger&logoColor=white" alt="Messenger" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahariarsohan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shahariarsohan?label=Followers&style=flat&logo=github" alt="Followers" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+
 Full Stack Developer with a backend-first focus. I build scalable, maintainable systems with an emphasis on clean architecture, efficient APIs, and optimized databases. I enjoy working close to the data layer—designing schemas, improving query performance, and writing reliable backend logic.
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 Currently working on **full-stack web applications**
+- 🌱 Learning **advanced system design & cloud architecture**
+- 💬 Ask me about **Node.js, PostgreSQL, React, or TypeScript**
+- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
+- 📫 Reach me at **sohanshahariar4@gmail.com**
 
 ---
 
@@ -76,9 +74,83 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 
 ---
 
+### 🚀 What I've Built
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 Featured Projects
+- **E-Commerce Platform** - Full-stack marketplace with payment integration
+  - *Tech: Next.js, PostgreSQL, Prisma, Stripe*
+  
+- **Task Management System** - Real-time collaborative tool
+  - *Tech: MERN Stack, Socket.io, Redis*
+  
+- **API Gateway Service** - Microservices architecture
+  - *Tech: Node.js, Express, Docker, PostgreSQL*
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 Professional Work
+- Built **RESTful APIs** serving 10k+ daily requests
+- Designed **database schemas** optimized for performance
+- Implemented **authentication systems** with JWT & OAuth
+- Deployed **containerized applications** using Docker
+- Optimized **SQL queries** reducing load time by 60%
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/shahariarsohan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Overall Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahariarsohan&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarsohan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarsohan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahariarsohan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahariarsohan/shahariarsohan/output/snake.svg" alt="Snake animation" />
+</p>
+
+> **Note:** To enable the snake animation, you'll need to set up GitHub Actions. Create `.github/workflows/snake.yml` in your profile repository.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/shahariarsohan">Shahariar Sohan</a> - Let's build something amazing together!</i>
+</p>
