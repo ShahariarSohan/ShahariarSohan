@@ -72,5 +72,5 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app/?user=shahariarsohan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=shahariarsohan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
