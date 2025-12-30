@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer · Backend-Focused · MERN · PostgreSQL · Prisma · Next.js</h3>
 
 <p align="center">
-  <a href="mailto:sohanshahariar4@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://shahariarsohan.vercel.app" target="_blank">
@@ -61,7 +61,6 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Overall Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahariarsohan&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=shahariarsohan&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
+
