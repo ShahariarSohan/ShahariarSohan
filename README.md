@@ -16,9 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m **Shahariar Sohan**, a Full stack developer passionate about building scalable, maintainable systems.  
-I focus on backend development, clean architecture, and database optimization.  
-I enjoy working with databases, servers, and clean architecture, and I’m focused on designing efficient APIs, optimizing queries, and writing modular, reliable backend code.
+Full Stack Developer with a backend-first focus. I build scalable, maintainable systems with an emphasis on clean architecture, efficient APIs, and optimized databases. I enjoy working close to the data layer—designing schemas, improving query performance, and writing reliable backend logic.
 
 ---
 
