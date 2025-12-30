@@ -65,6 +65,7 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Overall Stats" /> 
 </a> 
   &nbsp;&nbsp; <a href="https://github.com/shahariarsohan"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahariarsohan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shahariarsohan" alt="GitHub Streak" /></a>
 </p>
 
 
