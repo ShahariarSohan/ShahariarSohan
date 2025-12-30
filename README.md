@@ -56,8 +56,4 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 
 ## 📊 GitHub Metrics
 
-<p align="center"> 
-  <a href="https://github.com/shahariarsohan">
-    <img src="https://streak-stats.demolab.com/?user=shahariarsohan&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=tokyonight)](https://git.io/streak-stats)
