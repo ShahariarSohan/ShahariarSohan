@@ -31,7 +31,7 @@
 
 Full Stack Developer with a backend-first focus. I build scalable, maintainable systems with an emphasis on clean architecture, efficient APIs, and optimized databases. I enjoy working close to the data layer—designing schemas, improving query performance, and writing reliable backend logic.
 
-- 🔭 Currently working on **a full-stack web application- Hidden dependency Risk tracker a backend focused system risk traker via risk analysis backend logic**
+🔭 Currently working on: **a full-stack web application — Hidden Dependency Risk Tracker (HDRT), a backend-focused system for tracking and analyzing hidden dependencies and system risks through robust risk analysis and optimized backend logic**.
 - 💬 Ask me about **Node.js, PostgreSQL, MongoDB, React, Next.js, TypeScript**
 - 📫 Reach me at **[sohanshahariar4@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com)**
 
