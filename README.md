@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN | PostgreSQL | Prisma | Nextjs | Clean Code Advocate</h3>
 
 <p align="center">
-  <a href="mailto:sohanshahariar4@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com&su=Subject&body=MessageBody">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://shahariarsohan.vercel.app" target="_blank">
