@@ -36,7 +36,9 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 
 - 🔭 Currently working on **a full-stack web application- Hidden dependency Risk tracker a backend focused system risk traker via risk analysis backend logic**
 - 💬 Ask me about **Node.js, PostgreSQL,MongoDB, React,Next js,TypeScript**
-- 📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com" target="_blank">sohanshahariar4@gmail.com</a>
+- 📫 Reach me at  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 ---
 
