@@ -60,15 +60,17 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 
 ---
 
-## 📊 GitHub Stats
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" height="180" />
-    </td>
-    <td width="20"></td> 
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahariarsohan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Metrics
+<p align="center">
+  <a href="https://github.com/shahariarsohan">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Overall Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shahariarsohan">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahariarsohan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarsohan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
