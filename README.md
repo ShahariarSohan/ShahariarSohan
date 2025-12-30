@@ -35,10 +35,9 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **advanced system design & cloud architecture**
-- 💬 Ask me about **Node.js, PostgreSQL, React, or TypeScript**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
+- 🔭 Currently working on **full-stack web application- Hidden dependency Risk tracker a backend focused system risk traker via risk analysis backend logic**
+- 🌱 Learning ** System design & cloud architecture**
+- 💬 Ask me about **Node.js, PostgreSQL,MongoDB, React,Next js,TypeScript**
 - 📫 Reach me at **sohanshahariar4@gmail.com**
 
 ---
@@ -99,10 +98,3 @@ Full Stack Developer with a backend-first focus. I build scalable, maintainable 
 ---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/shahariarsohan">Shahariar Sohan</a> - Let's build something amazing together!</i>
-</p>
