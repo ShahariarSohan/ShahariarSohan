@@ -33,12 +33,11 @@
 
 Full Stack Developer with a backend-first focus. I build scalable, maintainable systems with an emphasis on clean architecture, efficient APIs, and optimized databases. I enjoy working close to the data layer—designing schemas, improving query performance, and writing reliable backend logic.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 Currently working on **full-stack web application- Hidden dependency Risk tracker a backend focused system risk traker via risk analysis backend logic**
 - 🌱 Learning ** System design & cloud architecture**
 - 💬 Ask me about **Node.js, PostgreSQL,MongoDB, React,Next js,TypeScript**
-- 📫 Reach me at **https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com**
+- 📫 Reach me at sohanshahariar4@gmail.com
 
 ---
 
