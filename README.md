@@ -1,89 +1,66 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=👋%20Hi,%20I'm%20Shahariar%20Sohan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20MERN%20%7C%20PostgreSQL&descAlignY=45&descAlign=50" width="100%" />
-  
-  <div style="margin-top: -50px;">
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://shahariarsohan.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/shahariarsohan" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://wa.me/8801622143630" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="https://m.me/mdshahariar.sohan" target="_blank">
-      <img src="https://img.shields.io/badge/Messenger-0084FF?style=flat&logo=facebookmessenger&logoColor=white" alt="Messenger" />
-    </a>
-  </div>
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=shahariarsohan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shahariarsohan?label=Followers&style=flat&logo=github" alt="Followers" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-Full Stack Developer experienced in building modern web applications with Next.js and React, with a strong interest in backend engineering, data modeling, and scalable system design. Worked on projects including a Hidden Dependency Risk Tracker and a Digital Wallet System.
-
-🔭 Currently working on: **a full-stack web application — Hidden Dependency Risk Tracker (HDRT), a backend-focused system for tracking and analyzing hidden dependencies and system risks through robust risk analysis and optimized backend logic**.
-- 💬 Ask me about **Node.js, PostgreSQL, MongoDB, React, Next.js, TypeScript**
-- 📫 Reach me at **[sohanshahariar4@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com)**
-
----
-
-### 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shahariar%20Sohan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20MERN%20%7C%20PostgreSQL&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> 
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /> 
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux" /> 
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /> 
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" /> 
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" /> 
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" /> 
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> 
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" /> 
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" /> 
-</p>
-
-<p align="center">
-  <a href="https://github.com/shahariarsohan?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohanshahariar4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shahariarsohan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahariarsohan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/8801622143630" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://m.me/mdshahariar.sohan" target="_blank">
+    <img src="https://img.shields.io/badge/Messenger-0084FF?style=flat&logo=facebookmessenger&logoColor=white" alt="Messenger" />
   </a>
 </p>
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarsohan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=ShahariarSohan&label=Profile%20Views&color=00FFFF&style=flat-square" alt="ShahariarSohan's profile views" />
+  <img src="https://img.shields.io/github/followers/ShahariarSohan?label=Followers&style=flat&logo=github" alt="Followers" />
 </p>
-### 📊 Contribution Graph
+
+---
+
+## 📌 About Me
+
+* Full Stack Web Developer at SM Technologies, focused on building modern, scalable web applications with React, Next.js, Node.js, TypeScript, PostgreSQL, and MongoDB.
+* Backend-focused developer with experience in API development, database design, system architecture, and server-side engineering. Worked on web applications including PackOne Accessories, Dometra, CoxStay, and EzyFile, and as a Backend Developer for the DailyMiles and EzyDash mobile applications.
+* 🚀 Interested in Backend Engineering, System Design, Databases, Scalable Applications & DevOps.
+
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/409ba5/shahariarsohan"
-    alt="Shahariar Sohan's GitHub Contribution Graph"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+</p>
+
+
+---
+
+<p align="center">
+  <a href="https://github.com/ShahariarSohan?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
 </p>
