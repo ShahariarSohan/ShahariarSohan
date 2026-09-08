@@ -78,7 +78,11 @@ Full Stack Developer experienced in building modern web applications with Next.j
   <img src="https://github-readme-stats.vercel.app/api?username=shahariarsohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarsohan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
+### 📊 Contribution Graph
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/shahariarsohan" alt="Shahariar Sohan's GitHub Contribution Graph" width="100%" />
+</p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarsohan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p> -->
