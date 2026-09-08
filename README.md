@@ -29,7 +29,7 @@
 
 * Full Stack Web Developer at SM Technologies, focused on building modern, scalable web applications with React, Next.js, Node.js, TypeScript, PostgreSQL, and MongoDB.
 * Backend-focused developer with experience in API development, database design, system architecture, and server-side engineering. Worked on web applications including PackOne Accessories, Dometra, CoxStay, and EzyFile, and as a Backend Developer for the DailyMiles and EzyDash mobile applications.
-* 🚀 Interested in Backend Engineering, System Design, Databases, Scalable Applications & DevOps.
+* Interested in Backend Engineering, System Design, Databases, Scalable Applications & DevOps.
 
 
 ## 🛠️ Tech Stack
